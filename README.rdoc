@@ -6,4 +6,6 @@
 
 4) Ensure you have appopriate routes
 
-5) Create a homepage, about
+5) Create a homepage, 
+
+This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
