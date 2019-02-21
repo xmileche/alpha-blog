@@ -28,7 +28,7 @@ $navbar-default-bg: #39393A;
     height: 550px;
 }
 
-.jumbotron h1{
+.jumbotron h1 {
     color: #6C969D;
     text-align: center;
     margin-bottom: 30px;
@@ -44,6 +44,15 @@ $navbar-default-bg: #39393A;
     background-color: #6C969D;
     float: center;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+
+.article-actions {
+    border-top: 1px solid #eaeaea;
+    padding-top: 5px;
+}
+
+.description{
+    margin-top: 0;
 }
 
 .footer {
